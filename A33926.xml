@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The legality of the court held by His Majesties ecclesiastical commissioners defended their proceedings no argument against the taking off penal laws &amp; tests.</title>
+            <author>Care, Henry, 1646-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33926</idno>
+            <idno type="STC">Wing C527</idno>
+            <idno type="STC">ESTC R23058</idno>
+            <idno type="EEBO-CITATION">12747500</idno>
+            <idno type="OCLC">ocm 12747500</idno>
+            <idno type="VID">93292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93292)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 376:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The legality of the court held by His Majesties ecclesiastical commissioners defended their proceedings no argument against the taking off penal laws &amp; tests.</title>
+                  <author>Care, Henry, 1646-1688.</author>
+               </titleStmt>
+               <extent>[3], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Henry Care. Cf. BM.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Ecclesiastical Commission (1686)</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:93292:1"/>
+            <p>Let this be Printed,</p>
+            <closer>
+               <dateline>WHITE-HALL, <date>
+                     <hi>Febr.</hi> 25<hi rend="sup">th.</hi> 1687.</date>
+               </dateline>
+               <signed>
+                  <hi>Sunderland</hi> P.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:93292:1" rendition="simple:additions"/>
+            <p>THE <hi>Legality of the Court</hi> HELD BY His Majeſties Eccleſiaſtical Commiſſioners, DEFENDED. Their Proceedings No ARGUMENT Againſt the Taking Off Penal Laws &amp; Teſts.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Richard Janeway,</hi> in <hi>Queens-Head-Alley</hi> in <hi>Pater-Noſter-Row.</hi> MDCLXXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93292:2"/>
+            <pb n="1" facs="tcp:93292:2"/>
+            <head>THE <hi>Legality of the Court</hi> Held by His Majeſties Eccleſiaſtical Commiſſioners, DEFENDED.</head>
+            <p>THE Manifeſt Deſign of our Church<g ref="char:EOLhyphen"/>men's Out-cries againſt His <hi>MAJE<g ref="char:EOLhyphen"/>STIES Eccleſiaſtical Commiſſion,</hi> being to inſinuate into the <hi>Mobile,</hi> That the KING, notwithſtanding the ſolemn Promiſes he has made to the Church of <hi>England,</hi> intends nothing leſs than Her Ruin; I cannot forbear adding ſome Conſiderations to what the <hi>Vindicator</hi> of the <hi>Proceedings of His MAJESTY's Eccleſiaſtick Commiſſioners</hi> hath ſaid on this Subject. And
+<pb n="2" facs="tcp:93292:3"/>thus much I the rather do, becauſe I find, that the <hi>Laſt</hi> thing they aim at, is the ſetting the Nation againſt the Taking off Penal Laws and Teſts. But, that I may the more Succeſsfully go through this Province, it will be neceſſary, that I examine what has been oppoſed to the <hi>Legality</hi> of the Court.</p>
+            <p>His <hi>MAJESTY</hi> has Promiſed to Protect the Church of <hi>England,</hi> as by Law eſtabli<g ref="char:EOLhyphen"/>ſhed, and hitherto has done Nothing that in<g ref="char:EOLhyphen"/>terſeres with this moſt Gracious Promiſe; for, it muſt be acknowledged, that a Correcting the Diſobedient Members of a Church, is not a Deſtroying, but rather an uſing proper me<g ref="char:EOLhyphen"/>thods to preſerve and ſecure it.</p>
+            <p>The Church of <hi>England</hi> is a Body-Politick, compact, and compounded of many, and al<g ref="char:EOLhyphen"/>moſt infinite ſeveral, and yet well-agreeing Members, of which the KING is <hi>Head,</hi> in<g ref="char:EOLhyphen"/>ſtituted and furniſhed with plenary and entire Power, Prerogative, and Juriſdiction, to ren<g ref="char:EOLhyphen"/>der Juſtice and Right to every part of this Body, of what Eſtate; Degree, and Calling ſoever he be.</p>
+            <p>The Exerciſe of this <hi>Power</hi> and <hi>Prerogative,</hi> according to the Eccleſiaſtick Laws of this
+<pb n="3" facs="tcp:93292:3"/>Realm, is the Great Engine, uſed for the De<g ref="char:EOLhyphen"/>fence and Security of this Church. The Diſtribution of Juſtice, whether by encoura<g ref="char:EOLhyphen"/>ging thoſe that do well, or puniſhing the Offenders, is the true way to ſupport a Body-Politick.</p>
+            <p>Thus much, I preſume, all men of Sence will yield, from whence it is eaſily inferr'd, That on my Clearing the <hi>Legality</hi> of the Commiſſion [for nothing has been (that I do know) objected againſt the Defence of its Proceedings] it muſt be moreover gran<g ref="char:EOLhyphen"/>ted, that His Majeſty has done the Church of <hi>England</hi> no harm.</p>
+            <p>My preſent Work then, is, to conſider, What has been urged againſt the <hi>Legality</hi> of this Court? The Author of a Letter to the Vindicator will have the Queſtion to be, <q>
+                  <hi>Whether or no by the Laws of this Nation, as they now ſtand, the KING's Eccleſiaſtical Juriſdiction, may be delegated to Commiſſioners?</hi> Or, Whe-Eccleſiaſtical Commiſſioners derived their Authority from His Majeſty, by vertue of the Firſt <hi>Elizabeth</hi> only, and not upon the ſcore of any Prerogative in the Crown, preceding to that Act, whereby our Kings
+<pb n="4" facs="tcp:93292:4"/>might appoint Commiſſioners in ſuch Ca<g ref="char:EOLhyphen"/>ſes, <hi>ad libitum,</hi> is the ſingle Queſtion, upon which the Validity or Invalidity of the preſent Commiſſion will turn?</q>
+            </p>
+            <p>To this the Author anſwers, <q>That it is not an Expreſſion that might drop from my Lord <hi>Coke</hi>'s Pen, that will determine ſo weighty a point as this, eſpecially it being a queſtion that depends upon ſome know<g ref="char:EOLhyphen"/>ledge of <hi>Antiquity,</hi> which my Lord <hi>Coke</hi> was very little acquainted with: Beſides, he adds, That my Lord <hi>Coke</hi> never tells us, that our King's, by vertue of their ancient Eccleſiaſtical Juriſdiction, could appoint any Commiſſioners.</q>
+            </p>
+            <p>After this, the Author goes on to let us know what the ancient Juriſdiction Eccleſia<g ref="char:EOLhyphen"/>ſtical was, boldly affirming, that no Eccle<g ref="char:EOLhyphen"/>ſiaſtical Juriſdiction was anciently delegated to Commiſſioners; For, ſaith he, <q>Com<g ref="char:EOLhyphen"/>miſſioners are not ſuch Arbitrary things as ſome miſtaken Men do fondly imagine. And how plauſibly ſoever it be ſaid, <hi>That what Power a Man has in himſelf, he may de<g ref="char:EOLhyphen"/>legate unto another;</hi> Yet this difference muſt be admitted betwixt Perſons Commiſſio<g ref="char:EOLhyphen"/>nated
+<pb n="5" facs="tcp:93292:4"/>by the KING in Matters of Go<g ref="char:EOLhyphen"/>vernment, and Perſons authorized by pri<g ref="char:EOLhyphen"/>vate men, to act for them, and in their ſtead, <hi>viz.</hi> That private men may by Law do thoſe things in Perſon, which they im<g ref="char:EOLhyphen"/>power others to do for them. But the KING Commiſſionates Perſons to do what Himſelf cannot by Law do in Perſon.</q>
+            </p>
+            <p>This is the Subſtance of what our Author oppoſes to what the <hi>Vindicator</hi> had ſaid of the <hi>Legality</hi> of this Court. And in my <hi>Re<g ref="char:EOLhyphen"/>ply,</hi> no more is needful, than to ſhew,
+<list>
+                  <item>1. <hi>That in the Sence of the Church's great Archbiſhop, the KING may do by Law thoſe things in Perſon, which He impowers Commiſſioners to do for Him.</hi>
+                  </item>
+                  <item>2. <hi>That before the</hi> 1 Eliz. <hi>the Kings of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>by the Common Law, might grant out Commiſſions.</hi>
+                  </item>
+                  <item>3. <hi>That notwithstanding any thing contained in the</hi> 16 Car. 1. <hi>or</hi> 13 Car. 2. <hi>be KING may do ſo ſtill.</hi>
+                  </item>
+                  <pb n="6" facs="tcp:93292:5"/>
+                  <item>4. <hi>That His Majeſty may exerciſe this Preroga<g ref="char:EOLhyphen"/>tive in Matters Eccleſiaſtical, in a more ample manner than yet He has done;</hi> and <hi>therefore ſeeing he doth not, it's manifeſt, That His Majeſty deſigns no Hurt to the Church of</hi> England.</item>
+               </list>
+            </p>
+            <p>To the <hi>Firſt,</hi> I will only inſiſt on what is affirm'd by Archbiſhop <hi>Bancroft,</hi> the <hi>Malleus Puritanorum,</hi> the great Champion of our En<g ref="char:EOLhyphen"/>gliſh Church, who was Preſident of the Con<g ref="char:EOLhyphen"/>vocation called in the Firſt year of K. <hi>James</hi> 1. and ſtifly inſiſted on the impoſing the three Articles, and on a Depriving all that diſo<g ref="char:EOLhyphen"/>beyed. This Great man, the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi>'s Darling, expreſſes himſelf moſt fully in theſe Words,
+<note place="margin">Lib. 12. Mich. 5 Jac. <hi>Pro<g ref="char:EOLhyphen"/>hibitions de l'Roy.</hi>
+               </note> as Sir <hi>Edward Coke</hi> reports.</p>
+            <p>
+               <q>Upon <hi>Sunday</hi> the 10th. of <hi>November,</hi> the KING, (upon Complaint made to him by <hi>Bancroft</hi> Archbiſhop of <hi>Canterbury,</hi> con<g ref="char:EOLhyphen"/>cerning Prohibitions) was informed, That when queſtion was made of what Mat<g ref="char:EOLhyphen"/>ters the Eccleſiaſtical Judges have cogni<g ref="char:EOLhyphen"/>zance, either upon the Expoſition of the Statutes concerning Tythes, or any other thing Eccleſiaſtical, or upon the Statute
+<pb n="7" facs="tcp:93292:5"/>of 1 <hi>Eliz.</hi> concerning the High Commiſſi<g ref="char:EOLhyphen"/>on, or in any other caſe, in which there is not expreſs Authority in Law, <hi>the KING Himſelf may Decide it in His Royal Perſon, and that the Judges are but the Delegates of the KING;</hi> and that the KING may take what Cauſes he pleaſe to determine, from the Determination of the Judges, and may determine them Himſelf. And the Arch<g ref="char:EOLhyphen"/>biſhop ſaid, It was clear in Divinity, that ſuch Authority belongs to the <hi>KING</hi> by the Word of GOD.</q>
+            </p>
+            <p>Nothing can be more expreſly oppoſite to what the Author of the Letter affirms: He ſaith, that <hi>The KING cannot by Law do that in Perſon which He impowers others to do.</hi> But the Archbiſhop is poſitive, That the <hi>KING</hi> can do it in Perſon, yea, that thus much is ratified by the Holy Scriptures, and therefore is out of the power of humane Laws to alter. If then there be any <hi>Truth</hi> in this <hi>Church-man</hi>'s Divinity, there is no force in what the <hi>Author</hi> offers for Law. But,</p>
+            <p>
+               <hi>Secondly,</hi> The thing I chiefly inſiſt on, is this, <hi>That before the Firſt of</hi> Elizabeth, <hi>the Kings of <hi>England</hi> might grant out Commiſſions.</hi>
+            </p>
+            <pb n="8" facs="tcp:93292:6"/>
+            <p>In <hi>Caudries</hi> Caſe,
+<note place="margin">
+                  <hi>Coke</hi> Rep. Lib. 5.</note> after great and long Deliberation and Conſultation, the Judges reſolved, <q>That the Act of the Firſt year of the late Queen, concerning Ec<g ref="char:EOLhyphen"/>cleſiaſtical Juriſdiction, was not a Sta<g ref="char:EOLhyphen"/>tute <hi>Introductory</hi> of a New Law, but <hi>De<g ref="char:EOLhyphen"/>claratory</hi> of the Old; which appeareth as well by the Title of the ſaid <hi>Act, viz. An Act reſtoring to the CROWN the An<g ref="char:EOLhyphen"/>cient Juriſdiction over the State Eccleſiaſtical and Spiritual,</hi> &amp;c. As alſo, by the Body of the Act, in divers parts thereof. For that Act doth not annex any Juriſdiction to the CROWN, but that which in truth, or of Right, ought to be by the <hi>Ancient</hi> Laws of the Realm, parcel of the <hi>KING</hi>'s Juriſdiction, and united to his Imperial Crown, and which Lawfully had been, or might be exerciſed within the Realm.</q>
+            </p>
+            <p>Thus you ſee the Judges are clear in their Opinion, that the <hi>Firſt of Elizabeth</hi> is not Introductory of a New Law, but De<g ref="char:EOLhyphen"/>claratory of the Old: And thus much in the General the <hi>Author</hi> of the Letter will
+<pb n="9" facs="tcp:93292:6"/>grant me, but then he will by no means yield, That our <hi>KINGS,</hi> by vertue of their Ancient, Inherent, and Primitive Ec<g ref="char:EOLhyphen"/>cleſiaſtical Juriſdiction, might <hi>Delegate</hi> to Commiſſioners the Exerciſe thereof: How<g ref="char:EOLhyphen"/>ever, if we obſerve what was further re<g ref="char:EOLhyphen"/>ſolved by theſe Judges, we ſhall find that 'twas thus:</p>
+            <p>
+               <q>If that Act of the Firſt Year of our late Queen, had never been made, it was Reſolved by <hi>All</hi> the Judges, that the King or Queen of <hi>England,</hi> for the time being, may make ſuch an Eccleſiaſtical Commiſſion, as is before mentioned, by the <hi>Ancient</hi> Prerogative and Law of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </q>
+            </p>
+            <p>Thus you have the Reſolution of all the Judges, againſt the Opinion of one unknown Gentleman, whether Lawyer, or no, is not clear; but had he been (though he diſcovers no ſuch thing) Learned in the Laws, I preſume, his Opinion is not to be regarded, in a Matter wherein the Judges are ſo plainly againſt him. And,
+<pb n="10" facs="tcp:93292:7"/>though this be enough, yet <hi>ex abundanti,</hi> I will add one Reſolution more of our Judges.
+<note place="margin">
+                  <hi>Coke</hi> Rep. Lib. 12.</note> 
+               <q>
+                  <hi>Mich.</hi> 4. <hi>Jacob. poſt Prandium;</hi> There was moved a Queſtion amongſt the Judges and Serjeants at <hi>Serjeants-Inn,</hi> If the High Commiſſioners in Eccleſiaſtical Cauſes may, by Force of their Commiſ<g ref="char:EOLhyphen"/>ſion, impriſon any man, or no? Firſt of all, it was reſolved by <hi>all,</hi> that Before the Statute of 1 <hi>Eliz. c.</hi> 1. <hi>The KING might have Granted a Commiſſion to Hear and Determine Eccleſiaſtical Cauſes.</hi>
+               </q>
+            </p>
+            <p>To return to our Author, on this Que<g ref="char:EOLhyphen"/>ſtion, Whether our KINGS, by vertue of their Ancient Eccleſiaſtical Juriſdiction, might Grant out Commiſſions, or Delegate the exerciſe of their Power to Commiſſio<g ref="char:EOLhyphen"/>ners? I ſay, on this Queſtion (as this Gentleman grants) the Validity or Invalidi<g ref="char:EOLhyphen"/>ty of the preſent Commiſſion will turn: that is to ſay, If by the ancient Laws our KINGS might Grant out Commiſſions, then the preſent Commiſſion is valid; But it has been Reſolved by all the Judges again and again, that by the Ancient Law
+<pb n="11" facs="tcp:93292:7"/>before the Firſt of <hi>Elizabeth,</hi> the KING might Grant out Commiſſions. <hi>Ergo,</hi> the preſent Commiſſion is valid, the Court is a <hi>Legal</hi> Court.</p>
+            <p>Though this be ſo very clear, yet our Gentleman is ſtill of the Opinion, That the Statute of 16 <hi>Car.</hi> 1. has taken away the Commiſſion it ſelf, Root and Branch. I will therefore proceed to the <hi>Third</hi> point, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> That <hi>notwithſtanding any thing con<g ref="char:EOLhyphen"/>tained in the</hi> 16 Car. 1. <hi>or</hi> 13 Car. 2. <hi>the KING may still Grant out Commiſſions.</hi> For, if the Power of Granting this Commiſſion be, as our Church-of-<hi>England</hi>-Lawyers declare, a part of the <hi>Ancient</hi> Eccleſiaſtick Juriſdic<g ref="char:EOLhyphen"/>tion, it is, notwithſtanding any thing in the 16 <hi>Car.</hi> 1. or 13 <hi>Car.</hi> 2. ſtill ſo. For it is expreſly declared in this 13 <hi>Car.</hi> 2. <hi>c.</hi> 12. That <hi>Neither the ſaid Act, nor any thing therein contained,</hi> DOTH, <hi>or</hi> Shall <hi>take away any Ordinary Power from the Arch biſhops, Bi<g ref="char:EOLhyphen"/>ſhops,</hi> &amp;c. <hi>but that</hi> they, <hi>and</hi> every
+<pb n="12" facs="tcp:93292:8"/>
+               <hi>Perſon</hi> above-named, <hi>exerciſing Eccle<g ref="char:EOLhyphen"/>ſiaſtical Jurisdiction, may proceed, and execuce all manner of Eccleſia<g ref="char:EOLhyphen"/>ſtical Jurisdiction, belonging to the ſame before the making of the</hi> 16 Car. 1. And if we look back, and ob<g ref="char:EOLhyphen"/>ſerve who thoſe Perſons are that are above<g ref="char:EOLhyphen"/>named, we ſhall find them to be not only Archbiſhops, and Biſhops, but <hi>Vicar-Gene<g ref="char:EOLhyphen"/>rals,</hi> or any other perſon or perſons what<g ref="char:EOLhyphen"/>ever, exerciſing Spiritual or Eccleſiaſtical Power by any Grant, Licence, or Com<g ref="char:EOLhyphen"/>miſſion of the KING's Majeſty; and if the Eccleſiaſtical Power be reſtored to <hi>Vi<g ref="char:EOLhyphen"/>car-Generals,</hi> and to the KING's Com<g ref="char:EOLhyphen"/>miſſioners, then the Power <hi>extraordinary</hi> is reſtored too, for 'twas an Extraordinary Power that belonged to them, which can no ſooner be yielded, but 'twill follow, that no more Power is taken from <hi>Vicar-Generals,</hi> and the KING's Commiſſioners, than what was taken from Archbiſhops, Biſhops, <hi>&amp;c.</hi> which is further confirmed by that Clauſe, in which it is Declared, That the KING's <hi>Supremacy</hi> in Eccleſiaſtick af<g ref="char:EOLhyphen"/>fairs ſhall not be abridged or diminiſhed;
+<pb n="13" facs="tcp:93292:8"/>On which I thus argue: That that Sence of this Law, by which the KING's Eccleſia<g ref="char:EOLhyphen"/>ſtick Supremacy is abridg'd or diminiſhed, is not the true Church of <hi>England</hi> Sence. But the holding that all <hi>extraordinary</hi> Juriſ<g ref="char:EOLhyphen"/>diction is taken away, abridges the KING's Supremacy; For, as our Church-men will have it before this Statute was Enacted, it's moſt manifeſt, that the Power of making Vicar-Generals and Commiſſioners, for the exer<g ref="char:EOLhyphen"/>ciſe of Extraordinary Juriſdiction, and ſum<g ref="char:EOLhyphen"/>moning Men out of their own Dioceſs, belong'd to the King's Supremacy Ecole<g ref="char:EOLhyphen"/>ſiaſtical, and therefore it ſtill doth apper<g ref="char:EOLhyphen"/>tain to it, which cannot be ſatisfied by Commiſſioners of Delegates, and Commiſſi<g ref="char:EOLhyphen"/>oners to viſit in places exempt; For as I have already obſerved, <hi>Vicar-Generals,</hi> whoſe Juriſdiction is Extraordinary, are named amongſt the reſt. But to follow our Author,</p>
+            <p>If we enquire after the Special Reaſon that moved Queen <hi>Elizabeth</hi> to ſet up the <hi>High-Commiſſion Court,</hi> we ſhall find, that though it was to the end ſhe might <hi>De<g ref="char:EOLhyphen"/>prive
+<pb n="14" facs="tcp:93292:9"/>the Popiſh Prieſts,</hi> yet, by the Inſtiga<g ref="char:EOLhyphen"/>tion of the Clergy, it was, for many years together, turned againſt the Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters; and, according to Church-of-<hi>England</hi>-Law, it may as well be turned againſt themſelves: For the Powers, Au<g ref="char:EOLhyphen"/>thorities, and Juriſdictions annexed to the Imperial CROWN of <hi>England,</hi> were for the Redreſſing, Ordering, Correcting, Re<g ref="char:EOLhyphen"/>ſtraining, and Amending any Offences, Contempts, and Enormities whatſoever, which by any manner of Spiritual Autho<g ref="char:EOLhyphen"/>rity and Juriſdiction, ought to be refor<g ref="char:EOLhyphen"/>med; and therefore, if a Church-of-<hi>Eng<g ref="char:EOLhyphen"/>land</hi>-man be guilty of any ſuch Offences, Contempts, or Enormities, he falls under the Eccleſiaſtick Cenſure, as well as a <hi>Ro<g ref="char:EOLhyphen"/>man Catholick,</hi> or Proteſtant Diſſenter; and for the ſame Reaſon, One Prince exerciſes this Authority againſt Offenders of one ſort, another Prince may uſe the ſame Power, for the amending the Offenders of the other Denomination.</p>
+            <p>And, Who can conſider how our Church<g ref="char:EOLhyphen"/>men, that they might the more ſeverely
+<pb n="15" facs="tcp:93292:9"/>handle the Proteſtant Diſſenter, have exal<g ref="char:EOLhyphen"/>ted the Prerogative, and not wonder that they ſhould complain on the milder Exer<g ref="char:EOLhyphen"/>ciſes of it? But whatever they may think, it's impoſſible for them to open their Mouths in this matter, unleſs they bring upon themſelves the greateſt <hi>Odium</hi> and Con<g ref="char:EOLhyphen"/>tempt imaginable; for when they blame the preſent Commiſſioners for what they have done againſt the Biſhop of <hi>London,</hi> and <hi>Mag<g ref="char:EOLhyphen"/>dalen</hi> Colledge, they do condemn themſelves for exerciſing the greateſt Severities againſt the <hi>Puritans,</hi> contrary (as now they them<g ref="char:EOLhyphen"/>ſelves will have it) unto all Law; For from what has been already ſaid, it is ap<g ref="char:EOLhyphen"/>parent, That the ſame Power His Ma<g ref="char:EOLhyphen"/>jeſty's Predeceffors exercis'd, belongs unto His Majeſty, and that gives Strength to each Horn of the <hi>Dilemma.</hi>
+            </p>
+            <p>In a word, then our Church-men muſt confeſs, they have been guilty of a very great errour, in turning the Royal Thun<g ref="char:EOLhyphen"/>der againſt the Old <hi>Puritans,</hi> in Q. <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> and K. <hi>James</hi> the Firſt's days: Or, that they acted very Righteouſly in what they
+<pb n="16" facs="tcp:93292:10"/>have done againſt them. If the <hi>Former,</hi> why do they not publiſh ſo much to the World? Why do they not confeſs, that their Forefathers have ſinned, and gone aſtray, and that the <hi>Puritans</hi> were moſt Un<g ref="char:EOLhyphen"/>juſtly perſecuted by their beloved Mother? If the <hi>Latter,</hi> if the Church of <hi>England</hi> in thoſe days did but what was Juſt, ſeeing many Hundred of the <hi>Puritans</hi> were ſpoiled of their Benefices by the Royal Power, the <hi>KING</hi> may as Righteouſly proceed on the ſame bottom.</p>
+            <p>
+               <hi>Fourthly,</hi> The <hi>Fourth</hi> thing to be done, is this, <hi>viz. That His MAJESTY may exer<g ref="char:EOLhyphen"/>ciſe His Prerogative in Matters Eccleſiaſtical, in a more ample manner than yet He has done.</hi>
+            </p>
+            <p>The Author of the Letter affirms, That the Power of making Canons, for the Go<g ref="char:EOLhyphen"/>vernment of the Church, was no otherwiſe in the CROWN than the Power of making Temporal Laws; But the miſtake in this place is as great as ſome others he is faln into, about <hi>Appeals</hi> and <hi>Inveſtitures;</hi> the firſt of which, notwithſtanding what
+<pb n="17" facs="tcp:93292:10"/>he ſaith to the contrary, is to the <hi>KING</hi> without a Parliament, and decided by his Delegates or Commiſſioners of Review; the Laſt by the KING ſolely, who, by the delivery of the Staff and Ring, did uſu<g ref="char:EOLhyphen"/>ally inveſt, as our Hiſtories abundantly confirm. In like manner touching Laws about Rites and Ceremonies, it lies in the KING's Power, without a Parliament, to make 'em. So ſaith Dr. <hi>Zouch,</hi> and Dr. <hi>Coſin,</hi> and there is an Act of Parliament,
+<note place="margin">
+                  <hi>Rex poſſit novas Leges condere circa ceremonias &amp; ritus cum confilio Metropolitani vel Com<g ref="char:EOLhyphen"/>miſſariorum in Cauſis Eccleſiaſti<g ref="char:EOLhyphen"/>cis. Zouch.</hi> Deſcrip. Jur. Eccleſ. Par. 1. Sect. 3. Coſ. T. 6.</note> expreſly recognizing this Power to be in the KING; the Words of which are, <hi>If there ſhall happen any Con<g ref="char:EOLhyphen"/>tempt or Irreverence to be uſed in the Ceremonies or Rites of the Church — the Queen's Majeſty, with the Advice of Her Commiſſio<g ref="char:EOLhyphen"/>ners in Cauſes Eccleſiaſtical, or Me<g ref="char:EOLhyphen"/>tropolitan, may Ordain and Inſti<g ref="char:EOLhyphen"/>tute ſuch further Ceremonies or Rites, as may be moſt for the Ad<g ref="char:EOLhyphen"/>vancement of GOD's Glory, the
+<pb n="18" facs="tcp:93292:11"/>Edifying of His Church, and due Reverence of Chriſt's Holy Myſte<g ref="char:EOLhyphen"/>ries and Sacraments.</hi>
+               <note place="margin">1 <hi>Eliz. c.</hi> 2.</note>
+            </p>
+            <p>And as the <hi>KING,</hi> with His Eccle<g ref="char:EOLhyphen"/>ſiaſtical Commiſſioners, may make New Laws about Ceremonies, ſo, without a Par<g ref="char:EOLhyphen"/>liament, He may make Orders or Conſti<g ref="char:EOLhyphen"/>tutions, for the Government of the Clergy, and deprive the Diſobedient.</p>
+            <p>Thus much is affirm'd by thoſe Prote<g ref="char:EOLhyphen"/>ſtant Divines, who have Written in Defence of the <hi>KING</hi>'s Supremacy, particularly by Dr. <hi>Harris,</hi> in Anſwer to <hi>Becanus</hi> the Je<g ref="char:EOLhyphen"/>ſuit, where he is expreſs in aſſuring us, <q>That the Right and Power by Regal Au<g ref="char:EOLhyphen"/>thority to make <hi>Church-Laws,</hi> as, that <hi>GOD ſhould not be Blaſphemed;</hi> that <hi>GOD ſhould be pacified in a Faſt,</hi> and <hi>Honoured in a Feſtival-day,</hi> and all ſuch as we read to have been made in the <hi>Code, Authenticks,</hi> and <hi>Ca<g ref="char:EOLhyphen"/>pitulars</hi> by <hi>Conſtantine, Theodoſius, Juſtinian,</hi> and <hi>Carolus Magnus,</hi> belongs to our Kings.</q>
+            </p>
+            <q>
+               <pb n="19" facs="tcp:93292:11"/>
+               <p>Moreover, to <hi>Delegate</hi> ſuch as ſhould judge of the Laws ſo made,</p>
+               <p>
+                  <hi>Touching Perſons</hi>
+               </p>
+               <p>To adminiſter Juſtice to all of all ſorts— To deprive the High-Prieſt (if he do de<g ref="char:EOLhyphen"/>ſerve) of his Prieſthood.</p>
+            </q>
+            <list>
+               <head>Theſe by Divine Right, are the Rights — of <hi>Regal Primacy, <hi>viz.</hi>
+                  </hi> whereby the KING may</head>
+               <item>1. <hi>Be called the Supreme Head of the Church.</hi>
+               </item>
+               <item>2. <hi>Call Councils, and preſide in them.</hi>
+               </item>
+               <item>3. <hi>Make Laws Eccleſiastical.</hi>
+               </item>
+               <item>4. Conſtitute, <hi>and</hi> Depoſe <hi>the</hi> High-Prieſt.</item>
+               <pb n="20" facs="tcp:93292:12"/>
+               <item>5. <hi>Bind His Subjects, by Oath, to Keep the Laws by Him made.</hi>
+               </item>
+            </list>
+            <p>
+               <q>To conclude, Hereby may the Adver<g ref="char:EOLhyphen"/>ſaries ſee that <hi>Regal Primacy</hi> is founded on the Scriptures, and propagated from the Firſt Religious Kings under the Old, to the Firſt Religious Emperors and Kings, and ſo to Our Sovereign Lord K. <hi>JAMES,</hi> under the <hi>New</hi> Teſtament, and in that long diſtance of time nothing impaired or diminiſhed.</q> So far Dr. <hi>Harris.</hi>
+            </p>
+            <p>But before many Noble-men, Archbi<g ref="char:EOLhyphen"/>ſhops, and Biſhops, and the Juſtices and Barons of the <hi>Exchequer,</hi> it was agreed, That the <hi>KING,</hi> without a Parliament, may make Conſtitutions for the Govern<g ref="char:EOLhyphen"/>ment of the Clergy, and that ſuch a De<g ref="char:EOLhyphen"/>privation, <hi>Ex Officio,</hi> without a Libel, is good.</p>
+            <p>Beſides, it muſt be further obſerv'd, That as it was held both by the Church-of
+<pb n="21" facs="tcp:93292:12"/>
+               <hi>England</hi>-Divines, and Lawyers,
+<note place="margin">
+                  <hi>Noyes</hi> Re<g ref="char:EOLhyphen"/>ports, Fol. 100.</note> to be in the Power of the <hi>KING</hi> to make Con<g ref="char:EOLhyphen"/>ſtitutions for the Government of the Clergy, and Deprive the Diſobedient: In like man<g ref="char:EOLhyphen"/>ner our <hi>KINGS</hi> acted accordingly, and im<g ref="char:EOLhyphen"/>pos'd a Subſcription to the Three following Articles.</p>
+            <q>
+               <p n="1">I. That the <hi>KING</hi>'s Majeſty, under <hi>GOD,</hi> is the Only Supreme Governour of this Realm, and of all other His Highneſſes Domini<g ref="char:EOLhyphen"/>ons and Countries, as well in all Spiritual or Eccleſiaſtical things or cauſes, as Temporal; and that no Forreign Prince, Perſon, Prelate, State, or Potentate, have or ought to have any Juriſdiction, Power, Superiority, Preheminence, or Au<g ref="char:EOLhyphen"/>thority Eccleſiaſtical, or Spiritual, within His Majeſties ſaid Realms, Dominions and Countries.</p>
+               <p n="2">
+                  <pb n="22" facs="tcp:93292:13"/>II. That the <hi>Book of Common-Prayer,</hi> and of <hi>Ordering of Biſhops, Priests,</hi> and <hi>Deacons,</hi> containeth in it nothing contrary to the Word of <hi>GOD,</hi> and that it may Lawful<g ref="char:EOLhyphen"/>ly be uſed, and That He Him<g ref="char:EOLhyphen"/>ſelf will uſe the Form in the ſaid Book, preſcribed in publick Prayer; and none others.</p>
+               <p n="3">III. That He alloweth the <hi>Book of Articles of Religion,</hi> agreed upon by the Archbiſhops, and Biſhops of both Provinces, and the whole Clergy in the Convocation hol<g ref="char:EOLhyphen"/>den in <hi>London,</hi> in the Year of our Lord God, 1562. And that He acknowledgeth all and every the Articles therein contained, being in number Nine and Thirty, beſides the <hi>Ratification</hi> to be agreeable to the Word of <hi>GOD.</hi>
+               </p>
+            </q>
+            <pb n="23" facs="tcp:93292:13"/>
+            <p>To theſe three Articles all Perſons re<g ref="char:EOLhyphen"/>ceived into the Miniſtry, were bound to Subſcribe in theſe Words;</p>
+            <p n="1">I <hi>N. N. do willingly, and <hi>ex animo,</hi> Sub<g ref="char:EOLhyphen"/>ſcribe to theſe Three Articles above-mention'd, and to all things that are contained in them.</hi>
+            </p>
+            <p>This Subſcription was impoſed by the Regal Authority, without a Parliament, and many Hundreds who could not Sub<g ref="char:EOLhyphen"/>ſcribe, were, to the Ruin of them and their Families, actually deprived. And although this Subſcription was exacted, during the whole Reign of <hi>James</hi> I. and <hi>Charles</hi> I. yet until the Reſtauration of <hi>Charles</hi> the 2d. it had never a Parliamentary Eſtabliſhment.</p>
+            <p>Seeing then, it's paſt doubt, That His <hi>MAJESTY</hi>'s Supremacy is as ample as that of any of His Royal Predeceſſors, what Q. <hi>Elizabeth</hi> and K. <hi>James</hi> the Firſt have done, that His preſent <hi>MAJESTY</hi> may now do, and without a Parliament, Command a Subſcription to other New Articles, and Deprive the Diſobedient.</p>
+            <pb n="24" facs="tcp:93292:14"/>
+            <p>To inſtance in one Article: His <hi>MAJE<g ref="char:EOLhyphen"/>STY</hi> may Command all the Clergy through<g ref="char:EOLhyphen"/>out this Kingdom, to give in their <hi>Aſſent, and Conſent to every thing contained in His late Gracious Declaration of Indulgence,</hi> and <hi>Deprive all that Diſobey.</hi>
+            </p>
+            <p>The power of Making new Articles, and requiring Subſcription, His <hi>MAJE<g ref="char:EOLhyphen"/>STIES</hi> Royal Predeceſſors have exercis'd, and the ſame His <hi>MAJESTY</hi> may as well <hi>now</hi> do. For the <hi>Matter</hi> of His Ma<g ref="char:EOLhyphen"/>jeſties <hi>Declaration</hi> has greater Countenance from Scripture, than the Ceremonies can pretend to. Ay, the very <hi>Diſpenſing Power</hi> it ſelf, is no more than what many of our Clergy have, for many Years together, preach<g ref="char:EOLhyphen"/>ed up for Sound Doctrin.</p>
+            <p>Thus you ſee how the <hi>KING</hi> may ſtretch His Prerogative to an higher Peg than yet he has done; but, Would there not then be a Brave Work among our Clergy, who, on ſuch an occaſion, would be obli<g ref="char:EOLhyphen"/>ged to give in Aſſent and Conſent to <hi>Li<g ref="char:EOLhyphen"/>berty of Conſcience,</hi> or ſubmit to a Depriva<g ref="char:EOLhyphen"/>tion!
+<pb n="25" facs="tcp:93292:14"/>I will ſay it again, If His <hi>MAJESTY</hi> by His Regal Authority, ſhould impoſe a Subſcription to His late Gracious Declara<g ref="char:EOLhyphen"/>tion, He might moſt Righteouſly, according to Church-of-<hi>England</hi>-Law, Deprive all that refuſe to Obey.</p>
+            <p>I know that of late, ſome have very confidently ſaid, That <hi>Deprivation</hi> is no Eccleſiaſtical Penalty, for the Benefices of which they are Deprived, is a <hi>Property,</hi> and by <hi>Magna Charta,</hi> no one can be diſſeized of it, without a Tryal by a Jury of his Peers; I will therefore, in ſhort, give you the Reſolution of our Judges in this matter, and leave it to the impartial Reader to judge, as he ſhall ſee cauſe.</p>
+            <p>
+               <q>
+                  <hi>Robert Cawdrey,</hi> the Parſon of the Rectory of <hi>North-Luffenham,</hi> in the County of <hi>Rutland,</hi> was, by the Queens Eccleſia<g ref="char:EOLhyphen"/>ſtical Commiſſioners, deprived of his ſaid Benefice, for preaching againſt the Book of Common Prayer, as alſo for that he re<g ref="char:EOLhyphen"/>fuſed to Celebrate Divine Service, accor<g ref="char:EOLhyphen"/>ding to the ſaid Book; which ſaid Sen<g ref="char:EOLhyphen"/>tence
+<pb n="26" facs="tcp:93292:15"/>of Deprivation was given by the Biſhop of <hi>London cum aſſenſu A. B. C. D. &amp;c. collegarum ſuorum.</hi> But whether the Depri<g ref="char:EOLhyphen"/>vation was void in Law, was ſolemnly and oft-times debated at Bar by Council, and at the Bench by the Judges, and after great and long deliberation and conſultati<g ref="char:EOLhyphen"/>on had with the reſt of the Judges, the Caſe was in the Term of St. <hi>Hilary,</hi> in the 37 Year of the Queen, adjudged. It was argued by <hi>Cawdrey</hi>'s Counſel, That the De<g ref="char:EOLhyphen"/>privation was void, for his Offence was againſt the Firſt of <hi>Elizabeth,</hi> and therefore ought to be puniſhed according to the mo<g ref="char:EOLhyphen"/>deration of that Act, which was not for the Firſt Offence an <hi>ipſo facto</hi> Deprivation, but only the Loſs of the profits of his Ec<g ref="char:EOLhyphen"/>cleſiaſtical Livings for One year, and Six months Impriſonment. But Deprivation was for a Second Offence, committed after he had been judicially convicted of Re<g ref="char:EOLhyphen"/>cord by Verdict of Twelve men, or by Confuſion, or notorious evidence of the Fact. But although this was the method preſcribed by the Statute of 1 <hi>Elizabeth,</hi> yet, becauſe there was a <hi>Proviſo</hi> in the
+<pb n="27" facs="tcp:93292:15"/>ſaid Act, [<hi>That all and ſingular Archbiſhops and Biſhops, and eve<g ref="char:EOLhyphen"/>ry of their Chancellors, Commiſſa<g ref="char:EOLhyphen"/>ries, Archdeacons, and other Ordi<g ref="char:EOLhyphen"/>naries having any peculiar Eccle<g ref="char:EOLhyphen"/>ſiaſtical Iurisdiction, ſhould have full Power and Authority, by ver<g ref="char:EOLhyphen"/>tue of that Act as well to enquire in their Viſitation,</hi> &amp;c. — <hi>of all and every the things above-men<g ref="char:EOLhyphen"/>tioned, done and committed, or per<g ref="char:EOLhyphen"/>petrated within the limits of their Iurisdiction and Authority, and puniſh the ſame by</hi> Admonition, Ex<g ref="char:EOLhyphen"/>communication, Sequeſtration, <hi>or</hi> Depriva<g ref="char:EOLhyphen"/>tion, <hi>and other Cenſures and Pro<g ref="char:EOLhyphen"/>ceſs, in like Form as heretofore had been uſed in like caſes by the Queens Eccleſiaſtical Laws,</hi>] It was adjudged, That the Eccleſiaſtical Judges might <hi>Deprive</hi> ſuch Perſon, Vicar, <hi>&amp;c.</hi> as ſhall deprave or not obſerve the ſaid Book, as well for the Firſt Offence, as he might have done by the Cenſures of the Church, and the Eccleſiaſtick Laws, as if no form of puniſhment had been in<g ref="char:EOLhyphen"/>flicted
+<pb n="28" facs="tcp:93292:16"/>by that Act, and are not bound to purſue the Form preſcribed by the ſaid Act, which is to puniſh the Offender, accor<g ref="char:EOLhyphen"/>ding to the Temporal Law.</q>
+            </p>
+            <p>Thus the Judges have Reſolv'd it, That Deprivation is one ſort of Eccleſiaſtical pu<g ref="char:EOLhyphen"/>niſhment, and may be inflicted without an Obſerving the Form preſcribed by the Tem<g ref="char:EOLhyphen"/>poral Laws: Which is enough to ſilence the Clamours of thoſe Church-men, who now cry up Benefices to be ſuch a Proper<g ref="char:EOLhyphen"/>ty, that the puniſhment by Deprivation can<g ref="char:EOLhyphen"/>not be juſtly inflicted, unleſs the proceſs be in like Form as is uſed by the Temporal Laws.</p>
+            <p>Furthermore, as His Majeſty may exer<g ref="char:EOLhyphen"/>ciſe this ample Power, and not recede the leaſt from Church-of-<hi>England</hi> Law; even ſo, his Doing it would not interfere with his Promiſe: And, if we may judge of things by the Sentiments our Church-men have heretofore had of Deprivations, no hurt is hereby done unto their Church. For when the old <hi>Puritans,</hi> in <hi>Q. Elizabeths</hi> and <hi>James</hi> the
+<pb n="29" facs="tcp:93292:16"/>Firſt's days, and the <hi>Nonconformiſts</hi> in <hi>Charles</hi> the Second's Reign, were Deprived, theſe Deprivations were eſteemed by the Gover<g ref="char:EOLhyphen"/>ning Clergy, no Damage, but a great Advantage to the Church; for, by them She was delivered from all thoſe that dif<g ref="char:EOLhyphen"/>fer'd from Her in a <hi>Ceremony.</hi> On the other hand therefore, if His Majeſty ſhould impoſe Subſcription to the Late Declaration, though many be thereupon Deprived, yet no more harm can be done the Church of <hi>England</hi> now than by the former Deprivations. And if the Opinion of a very Learned and Mo<g ref="char:EOLhyphen"/>derate <hi>Church-man</hi> may be of any value, the Difference between theſe and the Old Deprivations, muſt be only this: By the Old, the moſt Pious, Learned, and Peacea<g ref="char:EOLhyphen"/>ble, that ſcrupled the Ceremonies, were turn'd out, to the prejudice of Religion; But by this New one, none but the Debauched, and Perſecuting part of the Clergy, to whom we may impute all our Late Miſeries, will be laid aſide, to the advancing the Nations Peace.</p>
+            <p>If then the KING may exerciſe his Prerogative, and go ſo far, as is here ſaid,
+<pb n="30" facs="tcp:93292:17"/>without doing any hurt to the Church, What ground is there for the preſent <hi>Noiſe?</hi> His <hi>MAJESTY</hi>'s Commiſſioners have in<g ref="char:EOLhyphen"/>deed ſuſpended One Biſhop for his Diſobe<g ref="char:EOLhyphen"/>dience, towards whom they have exerciſed the greateſt patience, in not proceeding to a Deprivation; And what have they done more, than amove the Fellows of one Col<g ref="char:EOLhyphen"/>ledge for their inſolent oppugning His Ma<g ref="char:EOLhyphen"/>jeſties Supremacy, and a making 'em uncapa<g ref="char:EOLhyphen"/>ble of compaſſing their bad deſigns? Where then is the leaſt Colour for the Jealouſies theſe men endeavour to beget in the minds of His Majeſties Subjects?</p>
+            <p>On the whole, Whoever will conſider how much, according to Church-of-<hi>England</hi>-Law, the KING may do, and yet not<g ref="char:EOLhyphen"/>withſtanding the many Provocations ſome Hot-Church-men have given Him, How little He has done? I ſay, whoever will care<g ref="char:EOLhyphen"/>fully obſerve thus much, will ſee cauſe enough to conclude, That <hi>His Majeſty</hi>'s Cle<g ref="char:EOLhyphen"/>mency in the Exerciſe of His Supremacy, bears proportion to His Greatneſs.</p>
+            <pb n="31" facs="tcp:93292:17"/>
+            <p>It's amazing to obſerve, how induſtriouſly ſome of our Clergy, and their Creatures, ſtruggle; how ſtrenuouſly they labour to miſrepreſent <hi>His Majeſty</hi>'s moſt Glorious De<g ref="char:EOLhyphen"/>ſigns, how many Seditious Pamphlets they do daily emit, and at what charges they are to propagate 'em. But yet <hi>His Majeſty,</hi> with the greateſt ſteadineſs purſues His Royal Purpoſes of Grace to the whole Kingdom, to all Parties in it, even to the Church of <hi>England,</hi> that She continue in the Enjoyment of all that is dear unto Her, ſo far as it's conſiſtent with the true peace and quiet of the other great parts of the Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Let things be reſtored to the Ancient Conſtitution, let all Engliſh-men, as ſuch, enjoy the <hi>Priviledges</hi> that belong unto 'em: Let them all ſit down with peace under their own Vines, and be equally concern'd in the Services the Government calls for, and Encouragements it gives, and <hi>His Majeſty</hi> is ſatisfied.</p>
+            <p>The encloſing the Government, and nar<g ref="char:EOLhyphen"/>rowing it ſo, that none but Men of one
+<pb n="32" facs="tcp:93292:18"/>Religious Perſwaſion can have a ſhare in it, hath (as woful experience teaches us) pro<g ref="char:EOLhyphen"/>ved fatal to this Nation. It hath ſpoiled our Trade, depopulated the Kingdom, and exhauſted the Nation's Treaſure, carrying it unto a neighbouring People.</p>
+            <p>Let us then be content, that <hi>His Majeſty</hi> brake down the <hi>Encloſures,</hi> and ſet the Go<g ref="char:EOLhyphen"/>vernment on a larger bottom, that all <hi>True Engliſh-men</hi> may have a ſhare in it. Let Liberty and Property, and every man's Reli<g ref="char:EOLhyphen"/>gion, be ſecured, and we ſhall ſoon be the happieſt People under Heaven.</p>
+            <p>I ſay, Let every man's Religion be ſecu<g ref="char:EOLhyphen"/>red, as much from Violence, as the moſt Sacred part of our Civil Liberties, for this is the thing His <hi>MAJESTY</hi> Deſires; and, Where then is our danger?</p>
+            <p>His <hi>MAJESTY</hi> offers to do what never any of His Royal Predeceſſors ever did be<g ref="char:EOLhyphen"/>fore him, towards the eſtabliſhing his <hi>Peoples Peace,</hi> And ſhall we be ſo unſenſible, as not to Bleſs GOD, and accept of the Offer?</p>
+            <pb n="33" facs="tcp:93292:18"/>
+            <p>Here is no <hi>Truſting</hi> in the Caſe. His <hi>MAJESTY</hi> diſcovers ſo much Sincerity and Integrity in what he ſaith, that he will leave no room for <hi>Truſt.</hi>
+            </p>
+            <p>It is but to accept of a <hi>Magna Charta,</hi> in which our Religion is ſecured from all danger, <hi>(which can never be ſo long as Penal Laws, and thoſe Teſts, whoſe matter is meerly Religious, be kept up,)</hi> and we are immediately poſſeſt of all we can reaſonably deſire.</p>
+            <p>Let the ſame Inſtrument that takes away <hi>Penal Laws</hi> and <hi>Teſts,</hi> ſecure our Religion, and by the very Breath, that the one is de<g ref="char:EOLhyphen"/>ſtroyed, the other will be eſtabliſhed.</p>
+            <p>That a Sufficient Security may be found out, is not doubted by the moſt wiſe and thoughtful. What that is, is the part of a <hi>Parliament</hi> to conſider; but if we have as good, or better <hi>Security</hi> for our Religion; to be content to part with <hi>Penal Laws</hi> and <hi>Teſts,</hi> is both the Duty and Intereſt of every true <hi>Engliſh-man.</hi>
+            </p>
+            <pb n="34" facs="tcp:93292:19"/>
+            <p>That <hi>His Majeſty</hi> will give us as good Security as can be reaſonably deſired, is the Import of His Late <hi>Gracious Declaration,</hi> which, he has, on divers occaſions, oft publickly repeated, and it hath been fully proved, That <hi>His Majeſty's Eccleſiaſtical Commiſſioners</hi> have done nothing that is inconſiſtent with <hi>It.</hi> Whence it clearly follows, That there is nothing of Argument in our <hi>Hot-Church<g ref="char:EOLhyphen"/>mens</hi> Clamours, about this Courts Procee<g ref="char:EOLhyphen"/>dings againſt the Taking off <hi>Penal Laws</hi> and <hi>Teſts.</hi>
+            </p>
+            <p>In a word, from what has been already urg'd, it's moſt apparent:</p>
+            <p n="1">I. That the <hi>Court,</hi> held by His <hi>Majesties</hi> Eccleſiaſtical Commiſſioners, is, according to the Sentiments of Church of-<hi>England</hi>-Lawyers and Divines, a <hi>Legal Court.</hi>
+            </p>
+            <p n="2">II That the Prerogative, recognized by the Church-of-<hi>England</hi> to be inherent in the <hi>CROWN,</hi> is much larger than what His <hi>Majeſty</hi> has yet exerciſed. For,
+<pb n="35" facs="tcp:93292:19"/>
+               <list>
+                  <item>1. The KING with His Commiſſioners Eccleſiaſtical may make <hi>New Laws</hi> a<g ref="char:EOLhyphen"/>bout Ceremonies; and inſtead of Three, impoſe Thirty more. The Power be<g ref="char:EOLhyphen"/>ing lodg'd in the KING, He is the moſt proper Judge of their <hi>Decency,</hi> and <hi>Number;</hi> and for the ſame Reaſon, that Three are impoſed, if His <hi>Majeſty</hi> judges it meet, Thirty more may be ad<g ref="char:EOLhyphen"/>ded to the preſent Impoſition.</item>
+                  <item>2. The KING with His Commiſſioners Eccleſiaſtical, may enjoyn a ſtrict Sub<g ref="char:EOLhyphen"/>ſcription unto <hi>New Articles,</hi> and in the preſent juncture, require the Clergy to give in Aſſent, and Conſent unto them, on Pain of Deprivation. And if His <hi>Majeſty</hi> ſhould oblige our hot Church-Doctors to Subſcribe, Aſſent, and Con<g ref="char:EOLhyphen"/>ſent unto <hi>Liberty</hi> of <hi>Conſcience,</hi> What a condition would theſe Violent Men be plung'd into? They muſt either re<g ref="char:EOLhyphen"/>nounce their perſecuting Principles, or part with what is as dear unto them, <hi>viz.</hi> their Benefices.</item>
+                  <pb n="36" facs="tcp:93292:20"/>
+                  <item>3. His <hi>Majeſty</hi> may proceed againſt the <hi>Biſhop</hi> of <hi>London</hi> to a Deprivation; for, when ever any one falls under Suſpen<g ref="char:EOLhyphen"/>ſion, it has been the Cuſtome of the Church of <hi>England,</hi> ſtifly to inſiſt on a Submiſſion; and where that could not be obtained, they never ſtopt one point this ſide a <hi>Deprivation.</hi> Now it's plain, that it was the Biſhop's Duty to obey the Mandate of his Supreme Ordinary, and ſuſpend Dr. <hi>Sharp;</hi> and ſeeing he refuſed to Diſcharge his Duty, he was by their own Laws, juſtly ſuſpended; and it's as certain, that His <hi>Majeſty</hi> exerciſes the greateſt Clemency, in waiting ſo long for his ſubmiſſion.</item>
+                  <item>4. If His <hi>Majeſty</hi> ſhould deal with ſome of the <hi>Magdalen</hi>-Fellows after that manner, the Church-of-<hi>England</hi>-Judges advis'd King <hi>James</hi> the Firſt, to proceed againſt the Old <hi>Puritanes,</hi> He might handle 'em more ſeverely than yet his Commiſſio<g ref="char:EOLhyphen"/>ners have done. For their endeavour<g ref="char:EOLhyphen"/>ing to fill the Minds of His <hi>Majeſties</hi> Sub<g ref="char:EOLhyphen"/>jects with <hi>Diſcontents,</hi> and <hi>Jealouſies,</hi> is
+<pb n="37" facs="tcp:93292:20"/>an Offence, Fineable at diſcretion, and very ſhort of Felony, or Treaſon in the Puniſhment.</item>
+               </list>
+            </p>
+            <p>By all which it's manifeſt, that His <hi>Majeſty</hi> has not ſtretched his Prerogative to the utmoſt length he might, and yet keep within the Church-of-<hi>England</hi> Circle, and it's alſo as clear, that by reaſon of this Power His <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> has all the Conformable Clergy under His Girdle; to which we may add, that on the account of the many Penal Laws againſt Proteſtant Diſſenters, <hi>They</hi> alſo are as much under the Power of their <hi>PRINCE;</hi> for which reaſon, we may be aſſured, that if His <hi>Majeſty</hi> deſign'd any thing more than the Peace and Quiet of all His People, if he had further reſolv'd to have ſet up <hi>Popery</hi> in Do<g ref="char:EOLhyphen"/>minion, to the Ruining His Proteſtant Sub<g ref="char:EOLhyphen"/>jects, the only time of doing it would be be<g ref="char:EOLhyphen"/>fore the Penal Laws and Teſts are taken off, and a <hi>Magna Charta,</hi> for Liberty of Conſci<g ref="char:EOLhyphen"/>ence is Eſtabliſhed. For <hi>Now,</hi> the <hi>KING</hi> can either <hi>Muzzle</hi> all the Clergy, or <hi>Ty<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>up</hi> the hands of Proteſtant-Diſſenters, and get a Parliament, that ſhall ſet up <hi>Popery.</hi>
+            </p>
+            <pb n="38" facs="tcp:93292:21"/>
+            <p>It's not to be doubted, but that 'tis more eaſy <hi>Now,</hi> than it can be after a <hi>Magna Charta</hi> for Liberty of Conſcience is obtained; for <hi>Then,</hi> the perſecuting principle will be Dam<g ref="char:EOLhyphen"/>ned, the Church of <hi>England</hi> will have freſh ſecurity for her ſtanding, and the <hi>Proteſtant-Diſſenter</hi> be deliver'd from the Awe, and Dread of Penal Laws. And every Man, whoſe deſire is more for Peace, than Broyles and Confuſions (be they <hi>Proteſtant</hi> or <hi>Roman Catholick</hi>) they will be for a continuing the <hi>Magna Charta.</hi>
+            </p>
+            <p>To deliver freely my Conſcience in this caſe, it is this: His <hi>Majeſty</hi> deſigns to make us happy, by ſetting us all at eaſe under His Government; and the utmoſt he deſires, is, That the <hi>Roman Catholicks</hi> with His other Sub<g ref="char:EOLhyphen"/>jects, may enjoy the Free Exerciſe of their Religion, and have an equal ſhare with o<g ref="char:EOLhyphen"/>thers in the priviledges of <hi>Engliſhmen:</hi> and that thus much may be compaſſed, the <hi>King</hi> would have Matters ſo ſetled, that it may never be in the power of any one Party to hurt the Religion of the other, and that all Parties may be ſecured from Fears and Jealouſies,
+<pb n="39" facs="tcp:93292:21"/>His <hi>Majesty</hi> calls for the help of a <hi>Parliament,</hi> that in a Parliamentary-way, Men of every Religion, may have the greateſt ſecurity the Wit of Man can invent for Liberty of Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>All thoſe Pamphlets therefore, that are daily ſpread abroad, chiefly by thoſe, who had the greateſt hand in the late <hi>Perſecution,</hi> do hinder the Nations Peace, ſo far, as they obſtruct this His <hi>Majeſties</hi> moſt Gracious De<g ref="char:EOLhyphen"/>ſign, and are to be conſider'd as ſuch, by all good Men, who, when they weigh things, will, I doubt not, ſee cauſe to do their ut<g ref="char:EOLhyphen"/>moſt, that We may have ſuch a <hi>Parliament,</hi> as will concurr with His <hi>Majesty</hi> in making us Happy.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
